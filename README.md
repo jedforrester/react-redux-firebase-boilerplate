@@ -23,3 +23,9 @@ cmd> npm install
 
 Step 3:
 cmd> npm run dev
+
+Step 4:
+Open http://localhost:3000
+
+Step 5:
+Navigate to 'Add Cards' and create a card.
