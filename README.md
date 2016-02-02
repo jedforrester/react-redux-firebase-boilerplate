@@ -9,6 +9,7 @@ Boilerplate includes:
 -React-Router
 -Firebase
 -Express
+-Bootstrap
 
 Give it a try.
 Clone project
@@ -16,6 +17,7 @@ Navigate to Project directory
 
 Step 1:
 Add reference to firebase url in client/reducers/cardreducer.js
+
 const firebaseurl = 'https://myfirebaseurlapp.url/cards';
 
 Step 2:
