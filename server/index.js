@@ -1,11 +1,11 @@
 'use strict'
 
-import express from 'express'
-import config from '../config'
-import path from 'path'
-import home from './routes'
+import express from 'express';
+import config from '../config';
+import path from 'path';
+import home from './routes';
 
-const app = express()
+const app = express();
 
 // Webpack configurations
 const webpackServer = require('../webpack')
